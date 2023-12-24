@@ -1,0 +1,25 @@
+ .body{
+  font: 1em sans-serif;
+ }
+
+#hl{
+  text-align: center;
+  margin-left: 20px;
+
+}
+
+#hr{
+  text-align: right;
+  margin-right: 20px;
+}
+#content{
+  text-align: center;
+  margin: 25%;
+  
+
+}
+
+#footer{
+  text-align: left;
+  margin-left: 50px;
+}
